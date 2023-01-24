@@ -1,0 +1,9 @@
+1625133658321	geckodriver	INFO	Listening on 127.0.0.1:4444
+1625133658580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELROND~1\\AppData\\Local\\Temp\\rust_mozprofiledTAX4i"
+1625133658816	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Elrond Cheung\\AppData\\Local\\Temp\\rust_mozprofiledTAX4i\\search.json.mozlz4", (void 0)))
+1625133660293	Marionette	INFO	Listening on port 52628
+1625133660987	Marionette	INFO	Stopped listening on port 52628
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
